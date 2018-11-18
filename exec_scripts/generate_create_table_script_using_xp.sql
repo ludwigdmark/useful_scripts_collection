@@ -30,7 +30,7 @@ if not exists (select top 1 * from @oleprovs)
     raiserror(' 
     MSDASQL required for this script. 
     Please install Microsoft Access Database Engine. 
-    https://www.microsoft.com/en-us/download/confirmation.aspx?id=54920 
+    https://github.com/phattyzn/mssql_collection/raw/master/bin/2010_AccessDatabaseEngine_X64.exe 
     ', 16, 16)
 
 insert into @output 
