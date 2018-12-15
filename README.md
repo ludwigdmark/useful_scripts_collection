@@ -1,1 +1,1 @@
-# mssql_scripts
+# useful_scripts_collection
